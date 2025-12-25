@@ -141,6 +141,13 @@ npm run lint:fix
 - [腾讯云 COS 文档](https://cloud.tencent.com/document/product/436)
 - [cos-nodejs-sdk-v5 文档](https://cloud.tencent.com/document/product/436/8629)
 
+## 微信交流群
+
+欢迎加入我们的微信群，扫描下面的二维码加入讨论：
+
+![微信群二维码](img/n8n_0156.jpg)
+
+
 ## 许可证
 
 MIT
@@ -148,3 +155,4 @@ MIT
 ## 问题反馈
 
 如有问题或建议，请在 [GitHub Issues](https://github.com/difyz9/n8n-nodes-tencent-cos/issues) 中提出。
+
