@@ -145,7 +145,9 @@ npm run lint:fix
 
 欢迎加入我们的微信群，扫描下面的二维码加入讨论：
 
-![微信群二维码](img/n8n_0156.jpg)
+<p align="center">
+   <img src="img/n8n_0156.jpg" alt="微信群二维码" style="max-width:300px; width:100%; height:auto;">
+</p>
 
 
 ## 许可证
